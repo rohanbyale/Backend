@@ -1,2 +1,2 @@
 
-ultra relistic cinematic studio portrait using uploaded refrence photos replace original subject
+ultra relistic cinematic studio portrait using upladed refrence photos replace original subject
