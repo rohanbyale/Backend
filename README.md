@@ -1,153 +1,102 @@
-# Awesome MCP Servers
+# Hi 👋, I'm Rohan Byale
 
-A curated, categorized list of Model Context Protocol (MCP) servers — useful for developers, coders, and AI-assisted workflows.
+### 🚀 Open Source Contributor | Full Stack Developer | AI Enthusiast
 
-> MCP (Model Context Protocol) is an open standard that lets AI assistants connect to external tools and data sources through standardized "servers." Each server below adds a specific capability — file access, database queries, GitHub management, browser automation, and more.
-
-## Contents
-
-- [Official / Reference Servers](#official--reference-servers)
-- [File Systems & Local Tools](#file-systems--local-tools)
-- [Version Control](#version-control)
-- [Databases](#databases)
-- [Cloud Platforms & DevOps](#cloud-platforms--devops)
-- [Browser & Web Automation](#browser--web-automation)
-- [Communication & Productivity](#communication--productivity)
-- [Search & Knowledge](#search--knowledge)
-- [Monitoring & Observability](#monitoring--observability)
-- [Security](#security)
-- [Curated Lists Used as Sources](#curated-lists-used-as-sources)
-- [How to Use These Servers](#how-to-use-these-servers)
-- [Contributing](#contributing)
+Passionate about building developer tools, contributing to open source, and creating resources that help the developer community.
 
 ---
 
-## Official / Reference Servers
-Maintained by the MCP steering group as canonical examples.
+## 🌐 Connect With Me
 
-| Server | Description |
-|---|---|
-| [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) | Secure, scoped read/write file operations on local directories |
-| [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) | Read, search, and manipulate local Git repositories |
-| [Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) | Fetches and converts web content for LLM consumption |
-| [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) | Knowledge-graph based persistent memory across sessions |
-| [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) | Structured, step-by-step reasoning for complex problems |
-| [Time](https://github.com/modelcontextprotocol/servers/tree/main/src/time) | Time zone lookups and conversions |
-
-## File Systems & Local Tools
-| Server | Description |
-|---|---|
-| Filesystem (community variants) | Extended versions of the official filesystem server with extra permission controls |
-| Backup | File/folder backup and restore for agent workflows |
-| eBook-mcp | Lets an LLM read and query local PDF/EPUB ebooks |
-
-## Version Control
-| Server | Description |
-|---|---|
-| [github-mcp-server](https://github.com/github/github-mcp-server) | Official GitHub integration — repos, PRs, issues, code search |
-| GitLab MCP | Project, issue, and CI/CD pipeline management on GitLab |
-| Gitea MCP | Interact with self-hosted Gitea instances |
-| mcp-git-ingest | Summarizes and analyzes GitHub repos in a prompt-friendly way |
-| Octocode | AI-assisted code research and discovery across large GitHub ecosystems |
-
-## Databases
-| Server | Description |
-|---|---|
-| PostgreSQL | Query and inspect Postgres schemas with read/write controls |
-| MySQL | Configurable-access MySQL integration with schema inspection |
-| SQLite | Local SQLite querying with built-in analysis tools |
-| MongoDB | Query and analyze MongoDB collections |
-| BigQuery | Schema exploration and read-only SQL queries on BigQuery |
-| Snowflake | Read/write Snowflake integration with insight tracking |
-| Airtable | Read/write access to Airtable bases with schema inspection |
-
-## Cloud Platforms & DevOps
-| Server | Description |
-|---|---|
-| AWS CDK | Prescriptive AWS CDK advice, Nag-rule checks, pattern discovery |
-| Google Cloud Run | Deploy directly to Cloud Run |
-| Cloudflare | Manage Workers, KV, R2, and D1 |
-| Azure DevOps (multiple implementations) | Work items, pipelines, repo management on Azure DevOps |
-| Alibaba Cloud Ops | Manage ECS, Cloud Monitor, and OOS resources |
-| Docker | Container and compose-stack management |
-| Kubernetes | Cluster operations through MCP |
-| Metoro | Query Kubernetes environments monitored by Metoro |
-
-## Browser & Web Automation
-| Server | Description |
-|---|---|
-| Puppeteer | Browser automation for scraping and interaction |
-| Fetch | Lightweight page fetching and content conversion |
-| Oxylabs | Web scraping with dynamic rendering support |
-| GoLogin | Automate and manage browser profiles |
-
-## Communication & Productivity
-| Server | Description |
-|---|---|
-| Slack | Channel and message management |
-| Notion (multiple implementations) | Manage notes and todo lists via the Notion API |
-| Linear | Issue tracking integration |
-| Todoist | Natural-language task management |
-| Atlassian | Jira + Confluence integration |
-| Dart | Task, doc, and project data for AI-native project management |
-
-## Search & Knowledge
-| Server | Description |
-|---|---|
-| Brave Search | Web search via Brave's Search API |
-| Qdrant | Vector search for storing/retrieving AI memories |
-| LlamaCloud | Connects to a managed LlamaCloud index |
-| HuggingFace Spaces | Use HF Spaces (image/audio/text models) as tools |
-
-## Monitoring & Observability
-| Server | Description |
-|---|---|
-| Sentry | Error tracking and performance monitoring |
-| Raygun | Crash reporting and real-user monitoring |
-| Dash0 | OpenTelemetry resource navigation and incident investigation |
-| Grafana | Search dashboards and query datasources |
-
-## Security
-| Server | Description |
-|---|---|
-| Cycode | SAST, SCA, secrets, and IaC scanning in the dev lifecycle |
-| GhidraMCP | Binary analysis and reverse engineering via Ghidra |
-| Shodan MCP | IP lookups, device search, and CVE queries via Shodan |
-| Bitwarden/Vaultwarden MCP | Manage vault items (logins, notes, SSH keys) via the official CLI |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohanbyale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
 
-## Curated Lists Used as Sources
-These are larger "awesome lists" worth browsing directly for the full long-tail of servers:
+# 💻 Tech Stack
 
-- https://github.com/modelcontextprotocol/servers — official reference repo
-- https://github.com/punkpeye/awesome-mcp-servers — largest general community list
-- https://github.com/wong2/awesome-mcp-servers — another large, actively updated list
-- https://github.com/rohitg00/awesome-devops-mcp-servers — DevOps-specific list
-- https://github.com/appcypher/awesome-mcp-servers — categorized general list
+### Languages
 
-## How to Use These Servers
-Most servers run locally via `npx` (Node) or `uvx`/`pip` (Python), and are registered in your MCP client's config.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-Example `claude_desktop_config.json` entry:
+### Frontend
 
-```json
-{
-  "mcpServers": {
-    "filesystem": {
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/path/to/folder"]
-    }
-  }
-}
-```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-Check each server's own README for its exact install command and required environment variables (API keys, tokens).
+### Backend
 
-**Security note:** only install servers from sources you trust — they can run with the same permissions as your AI client. Scope filesystem/database access narrowly and keep credentials in environment variables.
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add a server to this list.
+### Database
 
-## License
-[MIT](LICENSE)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 🚀 Featured Repositories
+
+* ⭐ Free APIs List
+* ⭐ MCP Servers List
+* ⭐ React Resources
+* ⭐ Open Source Contributions
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanbyale&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbyale&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohanbyale&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanbyale\&theme=tokyo-night)](https://github.com/rohanbyale)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=rohanbyale\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+
+---
+
+### 🔥 Current Focus
+
+* Open Source Contributions
+* Building Developer Resource Repositories
+* React Ecosystem
+* AI Applications & MCP Servers
+* Growing GitHub Community
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
