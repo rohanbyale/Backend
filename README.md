@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rohan Byale
+# Hi 👋, I'm R
 
 ### 🚀 Open Source Contributor | Full Stack Developer | AI Enthusiast
 
