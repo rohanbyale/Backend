@@ -1,6 +1,5 @@
 
 
-### 🚀 Open Source Contributor | Full Stack Developer | AI Enthusiast
 
 Passionate about building developer tools, contributing to open source, and creating resources that help the developer community.
 
