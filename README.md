@@ -1,7 +1,7 @@
 
 
 
-Passionate about bulding developeools, contributing to open source,
+Passionate about bulding develools, contributing to open sourc
 
 ---
 
