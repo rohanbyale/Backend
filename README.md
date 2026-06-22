@@ -1,7 +1,7 @@
 
 
 
-Passionate about bulding developer tools, contributing to open source, and c
+Passionate about bulding developer tools, contributing to open source, and 
 
 ---
 
