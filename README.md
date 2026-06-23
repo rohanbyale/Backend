@@ -1,7 +1,7 @@
 
 
 
-Passionate about bulding develools, contributing to open sourc
+Passionate about bulding develools, contributing to open sour
 
 ---
 
