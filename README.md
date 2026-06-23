@@ -1,7 +1,7 @@
 
 
 
-Passionate about bulding develools, contri
+Passionate about bulding develools, c
 
 ---
 
