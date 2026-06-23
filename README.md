@@ -1,8 +1,5 @@
 
 
-
-Passionate about bulding
-
 ---
 
 ## 🌐 Connect With Me
