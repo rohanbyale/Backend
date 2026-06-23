@@ -1,7 +1,7 @@
 
 
 
-Passionate about bulding deve
+Passionate about bulding
 
 ---
 
