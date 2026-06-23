@@ -1,7 +1,7 @@
 
 
 
-Passionate about bulding develools, contributing 
+Passionate about bulding develools, contri
 
 ---
 
