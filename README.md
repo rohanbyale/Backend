@@ -3,7 +3,7 @@
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?badge\&logo=git(https://git(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?badge\&logo=git(https://git(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LIN
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
