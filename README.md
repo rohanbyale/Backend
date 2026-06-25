@@ -3,7 +3,9 @@
 
 
 
-[(https://im&lo(ht//git(https://img.shields.io/badge/Lin77B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LIN
+[(https://im&lo(ht//gi
+
+t(https://img.shields.io/badge/Lin77B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LIN
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
