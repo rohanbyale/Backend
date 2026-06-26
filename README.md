@@ -4,7 +4,7 @@
 
 
 [(https://i
-t(https:ds.io/bLin77B5?style=for-tbadge\&logo=linkedin\&logoColor=white)](YOUR_
+t(https:ds.io/bLin77B5?style=for-tbadge\&logo=linkedin\&logoColote)](YOUR_
 [![Portfol(https://img.shields.io/badortfolio-FF5722?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
