@@ -5,7 +5,7 @@
 
 [(htt
 t(https:ds.io/bLin77B5?style=for-tbadge\&logo=linkedin\&logoColote)](YOUR_
-[![Portfol(https://img.shieldtfolio-FF5722?style=for-the-badge\&logo=ox-browser\&logoColor=white)](YORTFOL)
+[![Portfol(https://img.shieldtfolio-FF5722?style=for-the-badge\&logo=ox-browser\&logoColor=white)]
 
 ---
 
