@@ -5,7 +5,7 @@
 
 [(htt
 t(https:ds.io/bLin77B5?style=for-tbadge\&logo=linkedin\&logoColote)](YOUR_
-[![Portfol(https://img.shields.idortfolio-FF5722?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](YORTFOLIO_URL)
+[![Portfol(https://img.shields.idortfolio-FF5722?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](YORTFOL)
 
 ---
 
