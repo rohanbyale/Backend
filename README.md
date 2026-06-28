@@ -4,7 +4,7 @@
 
 
 [(htt
-t(https:ds.in77B5?tbadge\&logo=linkedoCoe)](YOUR_
+t(https:ds.in77B5?dge\&logo=linkedoCoe)](YOUR_
 [![Portfol(https://img.shieldtfolio-FF5722?style=for-the-badge\&logo=browser\&logoColor=white)]
 
 ---
