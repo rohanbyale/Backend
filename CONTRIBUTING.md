@@ -1,6 +1,6 @@
 # Contributing
 
-Want to add a server to this list? Pull requests welcome.
+Want to add a server to this list? Pull requests 
 
 ## Guidelines
 
